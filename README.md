@@ -1,13 +1,9 @@
-# 👋 Hi, I'm Ekemini Samuel
+### Hola, I'm Ekemini Samuel
 
 💻 **Software Engineer**  
 🔨 Building with **Golang** and **Ruby on Rails**  
 ✍️ I write too!  
 🌍 **Remote and Asynchronous Work Advocate**
-
----
-
-I specialize in creating scalable backend systems and sharing my expertise through technical writing. Whether it's Golang microservices, robust API development, or insightful documentation, I'm passionate about helping build and sustain the future of tech.
 
 ---
 
@@ -19,17 +15,8 @@ I specialize in creating scalable backend systems and sharing my expertise throu
 
 ---
 
-### 📊 GitHub Stats
-![Ekemini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tabintel&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tabintel&layout=compact&theme=radical)
-
----
-
 ### 🌟 Starred Repositories
-[![Repo 1](https://img.shields.io/github/stars/Tabintel/Repo1?style=social)](https://github.com/Tabintel/v0-copilot-next)  
-[![Repo 2](https://img.shields.io/github/stars/Tabintel/Repo2?style=social)](https://github.com/Tabintel/qrscanner)
+[![Repo 1](https://img.shields.io/github/stars/Tabintel/v0-copilot-next?style=social)](https://github.com/Tabintel/v0-copilot-next)  
+[![Repo 2](https://img.shields.io/github/stars/Tabintel/qrscanner?style=social)](https://github.com/Tabintel/qrscanner)
 
 ---
-
-💬 **Connect with me!** Feel free to reach out for collaborations or just to say hi!
